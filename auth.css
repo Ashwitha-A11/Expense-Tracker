@@ -1,0 +1,63 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background: linear-gradient(135deg, #fbc2eb, #a6c1ee);
+    background-image: url("https://realclobber.com/wp-content/uploads/2020/08/Seamless-Way-To-Track-Your-Finance-With-Expense-Tracking-Apps.jpg");
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.auth-container {
+    padding: 30px;
+    border-radius: 12px;
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1);
+    width: 350px;
+    text-align: center;
+}
+
+.auth-container h2 {
+    color: rgb(242, 234, 234);
+    margin-bottom: 20px;
+}
+
+.auth-container input {
+    padding: 10px;
+    margin: 10px 0;
+    width: 100%;
+    border-radius: 30px;
+    border: 1px solid #847efa;
+}
+
+.auth-container button {
+    background-color: #6a5acd;
+    color: white;
+    border: none;
+    padding: 10px;
+    width: 105%;
+    border-radius: 30px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.auth-container button:hover {
+    background-color: #efeaf7;
+}
+
+.auth-container p {
+    margin-top: 15px;
+    font-size: 14px;
+    color: aliceblue;
+}
+.auth-container p a {
+    color: #f7fcf6; /* <-- Choose any color you like */
+    text-decoration: none; /* Optional: removes underline */
+    font-weight: bold;      /* Optional: makes it bold */
+}
+
+.auth-container p a:hover {
+    color: #e74cbb; /* Color on hover */
+    text-decoration: underline; /* Optional: adds underline on hover */
+}
+
