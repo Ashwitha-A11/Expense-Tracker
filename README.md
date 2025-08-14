@@ -42,7 +42,7 @@ Includes **login & signup authentication** with a sleek, responsive UI.
 ├── signup.js # Signup form handling
 
 
-Technologies Used
+## Technologies Used
 
 HTML5 – Structure
 
@@ -53,7 +53,7 @@ JavaScript (ES6) – Dynamic functionality
 Local Storage – Store data locally (optional: connect to backend)
 
 
-Future Improvements
+## Future Improvements
 
 User-specific data storage with a backend (Node.js / Python Flask).
 
@@ -64,11 +64,11 @@ Export data to CSV or PDF.
 Dark mode toggle.
 
 
-Project Live
+## Project Live
 My project is live at: https://ashwitha-a11.github.io/Expense-Tracker/
 
 
 
-Author
+## Author
 Ashwitha A
 
